@@ -36,7 +36,7 @@ Stay tuned as I build this into a complete interview prep library. 🌱
 
 ## 🔗 Related Content
 
-- Medium Article: [How I Use ChatGPT to Prepare Behavioral Questions 3x Faster](#) *(https://medium.com/@mchen9191/how-i-used-chatgpt-to-prepare-behavioral-interview-questions-3x-faster-c10095e070b0)*
+- Medium Article: [How I Use ChatGPT to Prepare Behavioral Questions 3x Faster](https://medium.com/@mchen9191/how-i-used-chatgpt-to-prepare-behavioral-interview-questions-3x-faster-c10095e070b0)
 
 ---
 
