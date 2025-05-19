@@ -18,6 +18,6 @@ To ensure they understood the complexities involved, I started by providing a hi
 **Result** 
 My approach resonated well with the audience, as evidenced by their active engagement and insightful follow-up questions. This session helped cross-functional teams to implement targeted strategies that successfully mitigated the chargeback issue. This experience showed my ability to communicate complex data effectively to non-technical stakeholders, facilitating cross-team collaboration and driving tangible business impact.
 
----
+
 
 ## Question 2: 
