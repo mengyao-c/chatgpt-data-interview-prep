@@ -4,7 +4,7 @@ All answers follow the STAR format (Situation, Task, Action, Result) and were re
 Tell us about a time when you had to explain complex data to a non-technical audience. How did you ensure they understood?
 - This assesses your communication skills and your ability to make data accessible to everyone.
 
-**Answer (STAR Format):**
+**Answer:**
 
 **Situation**
 As a data analyst working in the payment area, I frequently had to present insights from complex transaction data to non-technical business stakeholders and senior leadership.
@@ -24,7 +24,7 @@ My approach resonated well with the audience, as evidenced by their active engag
 Describe a situation where you had to work with a difficult team member or stakeholder. How did you handle it?
 - This question probes into your teamwork and conflict resolution skills.
 
-**Answer (STAR Format):**
+**Answer:**
 
 **Situation:** 
 During a project to migrate our reporting and alerting system from Splunk to Tableau, I encountered resistance from a lead on the customer service team who was reluctant to adopt the new Tableau dashboards and reporting workflows.
